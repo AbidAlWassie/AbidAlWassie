@@ -23,7 +23,7 @@ I'm a web developer with over 4 years of experience.
   ![Webstorm](https://img.shields.io/badge/-Webstorm-black?style=plastic&logo=webstorm&logoColor=000&color=fff)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-- 💻 And also work with: 
+- 💻️ Also work with: 
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![React](https://img.shields.io/badge/-React-151515?style=plastic&logo=react)
   ![Sass](https://img.shields.io/badge/-Sass-262B33?style=plastic&logo=Sass)
