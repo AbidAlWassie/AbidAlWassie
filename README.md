@@ -10,22 +10,23 @@ I'm a web developer with over 4 years of experience.
 
 *************
 
-- 🏢 I'm currently working from **Home**
+- 🏠 I'm currently working from **Home**
 - 🚀 Languages I prefer:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white&backgroundColor=1F8CCC)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
+  ![PHP](https://img.shields.io/badge/-PHP-000000?style=plastic&logo=php)
+  ![CSS3](https://img.shields.io/badge/-CSS3-146EB0?style=plastic&logo=css3)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=plastic&logo=html5&logoColor=white&backgroundColor=1F8CCC)
+- 💻 Tools I use:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Webstorm](https://img.shields.io/badge/-Webstorm-black?style=plastic&logo=webstorm&logoColor=000&color=fff)
-- 💻 Tools I use:
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 - ⚙️ And also work with: 
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![Sass](https://img.shields.io/badge/-Sass-262B33?style=plastic&logo=Sass)
 - 🌱 Learning: Database Design, Node.js, etc.
-- ⚡️ Fun fact: I love playing guitar and reading books, and stuff.
+- ⚡️ Fun fact: I love listening to music 🎧 playing guitar 🎸, reading books 📖, and stuff.
 
 ![Profile views](https://gpvc.arturio.dev/AbidAlWassie)
 
@@ -50,6 +51,7 @@ I'm a web developer with over 4 years of experience.
 [![Instagram](https://img.shields.io/badge/AbidAlWassie-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/AbidAlWassie/)](https://www.instagram.com/AbidAlWassie/)
 [![Linkedin](https://img.shields.io/badge/-AbidAlWassie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbidAlWassie/)](https://www.linkedin.com/in/AbidAlWassie/)
 
+📧 Email:
 [![Outlook Badge](https://img.shields.io/badge/-abidalwassie@outlook.com-0078D4?style=plastic&logo=mail&logoColor=white&link=mailto:abidalwassie@outlook.com)](mailto:abidalwassie@outlook.com)
 [![Gmail Badge](https://img.shields.io/badge/-abidalwassie@gmail.com-BF201D?style=plastic&logoColor=white&link=mailto:abidalwassie@gmail.com)](mailto:abidalwassie@gmail.com)
 
