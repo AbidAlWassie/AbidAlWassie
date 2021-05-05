@@ -1,4 +1,4 @@
-### Hello, I’m Abid Al Wassie! 👋. 
+### Hello, I’m Abid Al Wassie! 👋
 
 I'm a web developer with over 4 years of experience.
 
