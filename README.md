@@ -19,6 +19,7 @@ I'm a web developer with over 4 years of experience.
   ![MySQL](https://img.shields.io/badge/-MySQL-42759C?style=plastic&logo=MySQL&logoColor=white&backgroundColor=42759C)
 - ⚙️ Tools I use:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-151515?style=plastic&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-151515?style=plastic&logo=visual-studio&logoColor=945ED0)
   ![Webstorm](https://img.shields.io/badge/-Webstorm-black?style=plastic&logo=webstorm&logoColor=000&color=fff)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
@@ -26,7 +27,7 @@ I'm a web developer with over 4 years of experience.
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![React](https://img.shields.io/badge/-React-151515?style=plastic&logo=react)
   ![Sass](https://img.shields.io/badge/-Sass-262B33?style=plastic&logo=Sass)
-- 🌱 Learning: Database Design, Node.js, etc.
+- 🌱 Learning: Node.js, C++, C#, etc.
 - ⚡️ Fun fact: I love listening to music 🎧 playing guitar 🎸, reading books 📖, and stuff.
 
 ![Profile views](https://gpvc.arturio.dev/AbidAlWassie)
