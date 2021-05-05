@@ -51,8 +51,9 @@ I'm a web developer with over 4 years of experience.
 [![Instagram](https://img.shields.io/badge/AbidAlWassie-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/AbidAlWassie/)](https://www.instagram.com/AbidAlWassie/)
 [![Linkedin](https://img.shields.io/badge/-AbidAlWassie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbidAlWassie/)](https://www.linkedin.com/in/AbidAlWassie/)
 
-📧 Email:
-[![Outlook Badge](https://img.shields.io/badge/-abidalwassie@outlook.com-0078D4?style=plastic&logo=mail&logoColor=white&link=mailto:abidalwassie@outlook.com)](mailto:abidalwassie@outlook.com)
-[![Gmail Badge](https://img.shields.io/badge/-abidalwassie@gmail.com-BF201D?style=plastic&logoColor=white&link=mailto:abidalwassie@gmail.com)](mailto:abidalwassie@gmail.com)
+### 📧 Email:
+
+[![Outlook Badge](https://img.shields.io/badge/-abidalwassie@outlook.com-0078D4?style=flat-square&logo=mail&logoColor=white&link=mailto:abidalwassie@outlook.com)](mailto:abidalwassie@outlook.com)
+[![Gmail Badge](https://img.shields.io/badge/-abidalwassie@gmail.com-BF201D?style=flat-square&logoColor=white&link=mailto:abidalwassie@gmail.com)](mailto:abidalwassie@gmail.com)
 
 ## Thanks
