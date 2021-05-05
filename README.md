@@ -16,12 +16,12 @@ I'm a web developer with over 4 years of experience.
   ![PHP](https://img.shields.io/badge/-PHP-000000?style=plastic&logo=php)
   ![CSS3](https://img.shields.io/badge/-CSS3-146EB0?style=plastic&logo=css3)
   ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=plastic&logo=html5&logoColor=white&backgroundColor=1F8CCC)
-- 💻 Tools I use:
+- ⚙️ Tools I use:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Webstorm](https://img.shields.io/badge/-Webstorm-black?style=plastic&logo=webstorm&logoColor=000&color=fff)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-- ⚙️ And also work with: 
+- 💻 And also work with: 
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![Sass](https://img.shields.io/badge/-Sass-262B33?style=plastic&logo=Sass)
