@@ -1,6 +1,6 @@
 ### Hello, I’m Abid Al Wassie! 👋
 
-I'm a web developer with over 4 years of experience.
+I'm a web developer with over 4 years of experience. 👨‍💻
 
 ### My Work Includes: Web Development, UI/UX Design, PHP, MySQL Database 🙂
 
