@@ -32,7 +32,6 @@ I'm a web developer with over 4 years of experience. 👨‍💻
 - ⚡ Fun fact: I love listening to music 🎧 playing guitar 🎸, reading books 📖, and stuff.
 =======
 - ⚡️ Fun fact: I love listening to music 🎧 playing guitar 🎸 reading books 📖 and stuff.
->>>>>>> e4d09878337976c6c519b091a5f65c8714d76aca
 
 
 <!--
