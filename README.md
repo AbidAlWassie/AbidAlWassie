@@ -26,13 +26,18 @@ I'm a web developer with over 4 years of experience. 👨‍💻
 - 🔭 Tech & Frameworks: 
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![React](https://img.shields.io/badge/-React-151515?style=plastic&logo=react)
-  ![Sass](https://img.shields.io/badge/-Sass-262B33?style=plastic&logo=Sass)
+  ![Sass](https://img.shields.io/badge/-Sass-262B33?style=plastic&logo=sass)
 - 🌱 Learning: Node.js, C++, C#, etc.
+<<<<<<< HEAD
 - ⚡ Fun fact: I love listening to music 🎧 playing guitar 🎸, reading books 📖, and stuff.
+=======
+- ⚡️ Fun fact: I love listening to music 🎧 playing guitar 🎸 reading books 📖 and stuff.
+>>>>>>> e4d09878337976c6c519b091a5f65c8714d76aca
 
-![Profile views](https://gpvc.arturio.dev/AbidAlWassie)
 
 <!--
+![](https://komarev.com/ghpvc/?username=AbidAlWassie&color=blue)
+![Profile views](https://gpvc.arturio.dev/AbidAlWassie)
 ![badge-c](https://img.shields.io/badge/Language-C-555555?style=for-the-badge&logo=C) 
 ![badge-go](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=Go) 
 ![badge-cpp](https://img.shields.io/badge/Language-C++-f34b7d?style=for-the-badge&logo=C%2B%2B) 
