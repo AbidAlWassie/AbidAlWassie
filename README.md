@@ -28,9 +28,6 @@ I'm a web developer with over 4 years of experience. 👨‍💻
   ![React](https://img.shields.io/badge/-React-151515?style=plastic&logo=react)
   ![Sass](https://img.shields.io/badge/-Sass-262B33?style=plastic&logo=sass)
 - 🌱 Learning: Node.js, C++, C#, etc.
-<<<<<<< HEAD
-- ⚡ Fun fact: I love listening to music 🎧 playing guitar 🎸, reading books 📖, and stuff.
-=======
 - ⚡️ Fun fact: I love listening to music 🎧 playing guitar 🎸 reading books 📖 and stuff.
 
 
