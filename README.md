@@ -30,10 +30,9 @@ I'm a web developer with over 4 years of experience.
 - 🌱 Learning: Node.js, C++, C#, etc.
 - ⚡️ Fun fact: I love listening to music 🎧 playing guitar 🎸 reading books 📖 and stuff.
 
-![](https://komarev.com/ghpvc/?username=AbidAlWassie&color=blue)
-
 
 <!--
+![](https://komarev.com/ghpvc/?username=AbidAlWassie&color=blue)
 ![Profile views](https://gpvc.arturio.dev/AbidAlWassie)
 ![badge-c](https://img.shields.io/badge/Language-C-555555?style=for-the-badge&logo=C) 
 ![badge-go](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=Go) 
