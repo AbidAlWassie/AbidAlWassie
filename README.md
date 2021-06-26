@@ -1,8 +1,8 @@
 ## Hello, I’m Abid Al Wassie! 👋
 
-I'm a web developer with 4+ years of experience. 🙂
+### I'm a web developer with 4+ years of experience. 👨‍💻
 
-### My Work Includes: Responsive Web Design, CSS, JavaScript, PHP, MySQL Database 👨‍💻
+#### My Work Includes: Responsive Web Design, CSS, JavaScript, PHP, MySQL Database, etc.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AbidAlWassie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117)
 
