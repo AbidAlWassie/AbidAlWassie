@@ -2,7 +2,7 @@
 
 ### I'm a web developer with 4+ years of experience. 👨‍💻
 
-#### My Work Includes: Responsive Web Design, CSS, JavaScript, PHP, MySQL Database, etc.
+#### My Work Includes: Responsive Web Design, CSS, JavaScript, PHP, MySQL Database, etc. 🌠
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AbidAlWassie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117)
 
@@ -17,7 +17,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-146EB0?style=plastic&logo=css3)
   ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=plastic&logo=html5&logoColor=white&backgroundColor=1F8CCC)
   ![MySQL](https://img.shields.io/badge/-MySQL-42759C?style=plastic&logo=MySQL&logoColor=white&backgroundColor=42759C)
-- ⚙ Tools I use:
+- ⚙️ Tools I use:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-151515?style=plastic&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-151515?style=plastic&logo=visual-studio&logoColor=945ED0)
   ![Webstorm](https://img.shields.io/badge/-Webstorm-black?style=plastic&logo=webstorm&logoColor=000&color=fff)
