@@ -1,4 +1,4 @@
-## Hello, I’m [Abid Al Wassie][website] 👋
+## Hello, I’m [Abid Al Wassie][website]! 👋
 
 ### I'm a web developer with 4+ years of experience. 👨‍💻
 
