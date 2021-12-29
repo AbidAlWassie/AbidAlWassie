@@ -15,10 +15,9 @@
 <p align="center"> <a href="https://github.com/AbidAlWassie"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbidAlWassie&theme=black-ice&hide_border=true&border=3B495FFF&stroke=22333A&background=060A0CD0"/> </a> </p>
 
 <br/>
-    <a href="https://github.com/AbidAlWassie"><img alt="Nawab Khairuzzaman Mohammad Kibria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbidAlWassie&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+    <a href="https://github.com/AbidAlWassie"><img alt="Abid Al Wassie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbidAlWassie&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   <a href="https://github.com/AbidAlWassie"><img alt="Abid Al Wassie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   
-  <br/>
 
   <b>Note:</b> The Top languages section is just what consists of my public repositories and doesn't reflect my actual skill nor experience.
 
