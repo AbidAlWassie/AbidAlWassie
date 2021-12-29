@@ -4,9 +4,33 @@
 
 #### My Work Includes: Responsive Web Design, CSS, JavaScript, PHP, MySQL Database, etc. 🌠
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AbidAlWassie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117)
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117)
+<br>
+<br>
+
+
+  ## My GitHub Stats
+
+
+<p align="center"> <a href="https://github.com/AbidAlWassie"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbidAlWassie&theme=black-ice&hide_border=true&border=3B495FFF&stroke=22333A&background=060A0CD0"/> </a> </p>
+
+<br/>
+    <a href="https://github.com/AbidAlWassie"><img alt="Nawab Khairuzzaman Mohammad Kibria's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbidAlWassie&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+  <a href="https://github.com/AbidAlWassie"><img alt="Abid Al Wassie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+  
+  <br/>
+
+  <b>Note:</b> The Top languages section is just what consists of my public repositories and doesn't reflect my actual skill nor experience.
+
+  <br/>
+
+<a href="https://github.com/AbidAlWassie"><img src="https://activity-graph.herokuapp.com/graph?username=AbidAlWassie&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
+
+  
+  
+
+<br/>
+<br/>
 
 *************
 
@@ -40,6 +64,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AbidAlWassie?style=social)](https://twitter.com/AbidAlWassie)
 [![Instagram](https://img.shields.io/badge/AbidAlWassie-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/AbidAlWassie/)](https://www.instagram.com/AbidAlWassie/)
 [![Linkedin](https://img.shields.io/badge/-AbidAlWassie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbidAlWassie/)](https://www.linkedin.com/in/AbidAlWassie/)
+[![Dribbble](https://img.shields.io/badge/-AbidAlWassie-EA4C89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/abidalwassie)](https://dribbble.com/abidalwassie)
 
 ### 📧 Email: [![Outlook Badge](https://img.shields.io/badge/-abidalwassie@outlook.com-0078D4?style=flat-square&logo=mail&logoColor=white&link=mailto:abidalwassie@outlook.com)](mailto:abidalwassie@outlook.com) [![Gmail Badge](https://img.shields.io/badge/-abidalwassie@gmail.com-BF201D?style=flat-square&logoColor=white&link=mailto:abidalwassie@gmail.com)](mailto:abidalwassie@gmail.com)
 
