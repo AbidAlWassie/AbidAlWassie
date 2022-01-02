@@ -15,8 +15,8 @@
 <p align="center"> <a href="https://github.com/AbidAlWassie"> <img src="http://github-readme-streak-stats.herokuapp.com?user=AbidAlWassie&date_format=M%20j%5B%2C%20Y%5D&background=0C1014&border=242424&stroke=2963BD92&ring=4D90DC&fire=4D90DC&currStreakNum=F0F0F0&sideNums=F0F0F0&currStreakLabel=F0F0F0&sideLabels=F0F0F0&dates=929292"/> </a> </p>
 
 <br/>
-    <a href="https://github.com/AbidAlWassie"><img alt="Abid Al Wassie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbidAlWassie&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=060A0CD0&icon_color=417cbe" /></a>
-  <a href="https://github.com/AbidAlWassie"><img alt="Abid Al Wassie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=true&layout=compact&theme=github_dark&hide_border=true&bg_color=060A0CD0" /></a>
+    <a href="https://github.com/AbidAlWassie"><img alt="Abid Al Wassie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbidAlWassie&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0C1014&icon_color=417cbe" /></a>
+  <a href="https://github.com/AbidAlWassie"><img alt="Abid Al Wassie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=true&layout=compact&theme=github_dark&hide_border=true&bg_color=0C1014" /></a>
   
 
   <b>Note:</b> The Most Used Languages section is just what consists of my public repositories and doesn't reflect my actual skill nor experience.
