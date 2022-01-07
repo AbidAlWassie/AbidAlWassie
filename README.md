@@ -4,8 +4,6 @@
 
 #### My Work Includes: Responsive Web Design, CSS, JavaScript, PHP, MySQL Database, etc. 🌠
 
-
-<br>
 <br>
 
 # I really like music 🎧
