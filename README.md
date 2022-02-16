@@ -2,7 +2,7 @@
 
 ### I'm a web developer with 4+ years of experience. 👨‍💻
 
-#### My Work Includes: Responsive Web Design, UX Design, Full stack Websites with Laravel, etc. 🌠
+#### My Work Includes: Responsive Web Design, UX Design, Full stack Websites, etc. 🌠
 
 <br>
 
