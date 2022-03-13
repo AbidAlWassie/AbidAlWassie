@@ -6,11 +6,6 @@
 
 <br>
 
-# I really like music 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4a38nh6imq8wt38chbzm1y8rw&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4a38nh6imq8wt38chbzm1y8rw&redirect=true)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=4a38nh6imq8wt38chbzm1y8rw)
-
   ## My GitHub Stats
 
 
