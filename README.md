@@ -49,7 +49,7 @@
   ![Laravel](https://img.shields.io/badge/-Laravel-ffffff?style=plastic&logo=laravel)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-262B33?style=plastic&logo=tailwindcss)
   ![Sass](https://img.shields.io/badge/-Sass-262B33?style=plastic&logo=sass)
-- 🌱 Currently Learning: Dynamic Programming, Laravel, Tailwind CSS, Node.js, React, C++, C#, etc.
+- 🌱 Currently Learning: Dynamic Programming, Laravel, Node.js, React, etc.
 - ⚡️ Fun fact: I love learning music 🎶 playing guitar 🎸 reading books 📖 and stuff.
 
 
