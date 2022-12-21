@@ -61,4 +61,4 @@
 
 #### Thanks!
 
-[website]: https://abidalwassie.netlify.app
+[website]: https://onemandev.studio
