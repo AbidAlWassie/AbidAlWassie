@@ -19,7 +19,7 @@
 
   <br/>
 
-<a href="https://github.com/AbidAlWassie"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AbidAlWassie&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
+<a href="https://github.com/AbidAlWassie"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AbidAlWassie&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
 
 <br/>
 <br/>
