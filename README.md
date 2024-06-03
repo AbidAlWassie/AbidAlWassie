@@ -52,7 +52,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/AbidAlWassie?label=follow&style=social)](https://github.com/AbidAlWassie)
 [![Facebook Badge](https://img.shields.io/badge/-AbidAlWassie-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/AbidAlWassie/)](https://www.facebook.com/AbidAlWassie/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/onemandev_io?style=social)](https://twitter.com/AbidAlWassie)
+[![Twitter Follow](https://img.shields.io/twitter/follow/onemandev_io?style=social)](https://twitter.com/onemandev_io)
 [![Instagram](https://img.shields.io/badge/AbidAlWassie-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/AbidAlWassie/)](https://www.instagram.com/AbidAlWassie/)
 [![Linkedin](https://img.shields.io/badge/-AbidAlWassie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbidAlWassie/)](https://www.linkedin.com/in/AbidAlWassie/)
 [![Dribbble](https://img.shields.io/badge/-AbidAlWassie-EA4C89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/abidalwassie)](https://dribbble.com/abidalwassie)
