@@ -2,7 +2,7 @@
 
 ### I'm a web developer with 4+ years of experience. 👨‍💻
 
-#### My Work Includes: Full Stack Web Dev, Game Dev and personal projects. 🌠
+#### My Work Includes: Full Stack Web Dev, Game Dev and working on personal projects. 🌠
 
 <br>
 
