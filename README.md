@@ -6,7 +6,7 @@
 
 <br>
 
-## My GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center"> <a href="https://github.com/AbidAlWassie"> <img src="http://github-readme-streak-stats.herokuapp.com?user=AbidAlWassie&date_format=M%20j%5B%2C%20Y%5D&background=0C1014&border=242424&stroke=2963BD92&ring=4D90DC&fire=4D90DC&currStreakNum=F0F0F0&sideNums=F0F0F0&currStreakLabel=F0F0F0&sideLabels=F0F0F0&dates=929292"/> </a> </p>
 
@@ -24,7 +24,7 @@
 <br/>
 
 ---
-## 💻 Technologies I use as a Full Stack Developer
+## 🚀 Technologies I use as a Full Stack Developer
   <table align="center">
     <tr>
       <td align="center" width="96">
