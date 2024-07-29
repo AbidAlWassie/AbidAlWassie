@@ -22,31 +22,131 @@
 <a href="https://github.com/AbidAlWassie"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AbidAlWassie&bg_color=0C1014&color=4C8ED9&line=4C8ED9&point=FFFFFF&hide_border=true&border=3B495FFF" /></a>
 
 <br/>
-<br/>
 
 ---
+## 💻 Technologies I use as a Full Stack Developer
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <br>C#
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+        <br>Webpack
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Sass" />
+      <br>Astro
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=supabase" alt="icon" width="48" height="48" />
+        <br>Supabase
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="48" height="48" />
+        <br>GCP
+      </td>
+    </tr>
+    <tr>
+    <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="48" height="48" />
+        <br>Prisma
+        <td align="center" width="96">
+          <img src="https://lh3.googleusercontent.com/pw/AP1GczNZKlhrm7soRCKXbk2moMC_agvhPrSQbSiS7cS9eRVeadt5pCSWoGtdy8-J33ceFZjt7Tiq54nzqNxMKYZwszn89QbuSZxfzHRXq0r0Qy5DQaNi43tpXgt3SvjcpIR6bZb4SRf5eHDvO-Sy7zkAD50c=w80-h80-s-no-gm?authuser=0" alt="icon" width="48" height="48" />
+          <br>Drizzle
+        </td>
+        <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <br>MySQL
+      </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+          <br>PostgreSQL
+        </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      <td align="center" width="96"> 
+          <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Laravel" />
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>TailwindCSS
+      </td>
+    </tr>
+  <tr>
+          <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <br>VS Code
+      </td>
+                <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="WordPress" />
+        <br>Visual Studio
+      </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Vue" />
+        <br>Unity
+      </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Vue" />
+        <br>Blender
+      </td>
+        <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+        <br>Vue
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+        </a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS3
+    </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+    <br>HTML5
+  </td> 
+  </tr>
+  </table>
+<br><br>
 
-- 🏠 I'm currently working from **Home**
-- 🚀 Languages I prefer:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-black?style=plastic&logo=php)
-  ![CSS3](https://img.shields.io/badge/-CSS3-146EB0?style=plastic&logo=css3)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=plastic&logo=html5&logoColor=white&backgroundColor=1F8CCC)
-  ![MySQL](https://img.shields.io/badge/-MySQL-42759C?style=plastic&logo=MySQL&logoColor=white&backgroundColor=42759C)
-- ⚙️ Tools I use:
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-151515?style=plastic&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-151515?style=plastic&logo=visual-studio&logoColor=945ED0)
-  ![Unity](https://img.shields.io/badge/-Unity-000000?style=plastic&logo=unity&logoColor=ffffff)
-  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-- 🔭 Tech & Frameworks:
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
-  ![React](https://img.shields.io/badge/-React-151515?style=plastic&logo=react)
-  ![Laravel](https://img.shields.io/badge/-Laravel-ffffff?style=plastic&logo=laravel)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-262B33?style=plastic&logo=tailwindcss)
-  ![Sass](https://img.shields.io/badge/-Sass-262B33?style=plastic&logo=sass)
-- 🌱 Currently Learning: Game Development, Laravel, Node.js, React, etc.
-- ⚡️ Fun fact: I love learning music 🎶 playing guitar 🎸 reading books 📖 and stuff.
+</div>
 
 ### How to contact me?
 
