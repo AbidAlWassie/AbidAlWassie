@@ -1,8 +1,8 @@
-## Hello, I’m [Abid Al Wassie][website]! 👋
+# Hello, I’m [Abid Al Wassie][website]! 👋
 
-### I'm a web developer with 4+ years of experience. 👨‍💻
+## I'm a web developer with 4+ years of experience. 👨‍💻
 
-#### My Work Includes: Full Stack Web Dev, Game Dev and working on personal projects. 🌠
+### My Work Includes: Full Stack Web Dev, Game Dev and working on personal projects. 🌠
 
 <br>
 
@@ -148,17 +148,16 @@
 
 </div>
 
-### How to contact me?
+## 💬 Don't hesitate to reach out to me.
 
-[![GitHub](https://img.shields.io/github/followers/AbidAlWassie?label=follow&style=social)](https://github.com/AbidAlWassie)
-[![Facebook Badge](https://img.shields.io/badge/-AbidAlWassie-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/AbidAlWassie/)](https://www.facebook.com/AbidAlWassie/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/onemandev_io?style=social)](https://twitter.com/onemandev_io)
-[![Instagram](https://img.shields.io/badge/AbidAlWassie-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/AbidAlWassie/)](https://www.instagram.com/AbidAlWassie/)
-[![Linkedin](https://img.shields.io/badge/-AbidAlWassie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbidAlWassie/)](https://www.linkedin.com/in/AbidAlWassie/)
-[![Dribbble](https://img.shields.io/badge/-AbidAlWassie-EA4C89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/abidalwassie)](https://dribbble.com/abidalwassie)
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/7688140/)
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/abidalwassie)
+&nbsp;
+[<img src="https://img.shields.io/badge/X (fka Twitter)-282C34?logo=x&logoColor=FFFFFF" alt="X logo" title="X" height="25" />](https://twitter.com/onemandev_io)
+&nbsp;
+[<img src="https://img.shields.io/badge/YouTube-282C34?logo=youtube&logoColor=F60000" alt="X logo" title="X" height="25" />](https://www.youtube.com/@oneManDev/)
 
-### 📧 Email: [![Outlook Badge](https://img.shields.io/badge/-abidalwassie@outlook.com-0078D4?style=flat-square&logo=mail&logoColor=white&link=mailto:abidalwassie@outlook.com)](mailto:abidalwassie@outlook.com) [![Gmail Badge](https://img.shields.io/badge/-abidalwassie@gmail.com-BF201D?style=flat-square&logoColor=white&link=mailto:abidalwassie@gmail.com)](mailto:abidalwassie@gmail.com)
-
-#### Thanks!
+### Thanks!
 
 [website]: https://abidalwassie.me
