@@ -157,7 +157,9 @@
 [<img src="https://img.shields.io/badge/X (fka Twitter)-282C34?logo=x&logoColor=FFFFFF" alt="X logo" title="X" height="25" />](https://twitter.com/onemandev_io)
 &nbsp;
 [<img src="https://img.shields.io/badge/YouTube-282C34?logo=youtube&logoColor=F60000" alt="X logo" title="X" height="25" />](https://www.youtube.com/@oneManDev/)
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abidalwassie@gmail.com)](mailto:abidalwassie@gmail.com)
 
-### Thanks!
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Talk%20is%20cheap.%20Show%20me%20the%20code.&author=Linus%20Torvalds)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [website]: https://abidalwassie.me
