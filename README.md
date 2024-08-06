@@ -42,7 +42,7 @@
         <br>React
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="52" height="52" />
         <br>Next.js
       </td>
       <td align="center" width="96">
