@@ -113,16 +113,16 @@
         <br>Visual Studio
       </td>
         <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Vue" />
+          <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
         <br>Unity
       </td>
         <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Vue" />
-        <br>Blender
+          <img src="https://techstack-generator-tsg.vercel.app/eslint-icon.svg" alt="eslint" width="65" height="65" />
+        <br>Eslint
       </td>
         <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-        <br>Vue
+          <img src="https://techstack-generator-tsg.vercel.app/prettier-icon.svg" alt="prettier" width="65" height="65" />
+        <br>Prettier
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
