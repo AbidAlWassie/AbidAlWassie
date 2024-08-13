@@ -12,7 +12,7 @@
 
 <br/>
     <a href="https://github.com/AbidAlWassie"><img alt="Abid Al Wassie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbidAlWassie&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0C1014&icon_color=417cbe" /></a>
-  <a href="https://github.com/AbidAlWassie"><img alt="Abid Al Wassie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=false&layout=compact&theme=github_dark&hide_border=true&bg_color=0C1014" /></a>
+  <a href="https://github.com/AbidAlWassie"><img alt="Abid Al Wassie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=16&count_private=false&layout=compact&theme=github_dark&hide_border=true&bg_color=0C1014" /></a>
 
 
 <b>Note:</b> The Most Used Languages section is just what consists of my public repositories and doesn't reflect my actual skill nor experience.
