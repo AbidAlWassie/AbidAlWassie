@@ -148,7 +148,6 @@
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/7688140/)
 &nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/abidalwassie)
 &nbsp;
 [<img src="https://img.shields.io/badge/X (fka Twitter)-282C34?logo=x&logoColor=FFFFFF" alt="X logo" title="X" height="25" />](https://twitter.com/onemandev_io)
