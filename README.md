@@ -12,6 +12,7 @@
 ![Stats](http://github-profile-summary-cards-one.vercel.app/api/cards/stats?username=AbidAlWassie&theme=nightblue)
 ![Languages by Commit](http://github-profile-summary-cards-one.vercel.app/api/cards/most-commit-language?username=AbidAlWassie&theme=nightblue)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=false&hide=scss&layout=compact&theme=github_dark&hide_border=true&bg_color=0C1014)
+
 <b>Note:</b> The Most Used Languages section is just what consists of my public repositories and doesn't reflect my actual skill nor experience.
 
 <br/>
