@@ -111,7 +111,7 @@
       </td>
         <td align="center" width="96">
           <img src="https://techstack-generator-tsg.vercel.app/eslint-icon.svg" alt="eslint" width="65" height="65" />
-        <br>Eslint
+        <br>ESLint
       </td>
         <td align="center" width="96">
           <img src="https://techstack-generator-tsg.vercel.app/prettier-icon.svg" alt="prettier" width="65" height="65" />
