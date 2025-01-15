@@ -1,3 +1,21 @@
+## Hey 👋, I'm [Abid Al Wassie](https://abidalwassie.me) !
+
+[LinkedIn](https://www.linkedin.com/in/abidalwassie/) |
+[Website](https://abidalwassie.netlify.app/) |
+[Twitter](https://twitter.com/abidalwassie) |
+[Telegram](https://t.me/doge4444)
+
+&nbsp; 
+I'm a self-taught programmer and software developer from Bangladesh 🇧🇩
+- 🛠️ &nbsp; I build `Full Stack Web Apps`
+- 🐧 &nbsp; I love FOSS
+- 📫 &nbsp; How to reach me: abidalwassie@gmail.com
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=abidalwassie&show_icons=true&theme=github_dark_dimmed" height="190">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidalwassie&layout=compact&theme=github_dark_dimmed&langs_count=8&hide=scss,makefile">
+</div>
+
 <div>
   <h2>🛠️ <strong>Techstack</strong></h2>
   <p>Technologies and tools I work with:</p>
