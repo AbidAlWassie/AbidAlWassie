@@ -6,7 +6,7 @@
 [Telegram](https://t.me/doge4444)
 
 &nbsp; 
-I'm a self-taught programmer and software developer from Bangladesh 🇧🇩
+I'm a Full Stack Web Developer.
 - 🛠️ &nbsp; I build `Full Stack Web Apps`
 - 🐧 &nbsp; I love FOSS
 - 📫 &nbsp; How to reach me: abidalwassie@gmail.com
