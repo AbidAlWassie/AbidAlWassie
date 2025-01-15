@@ -37,11 +37,6 @@ I'm a self-taught programmer and software developer from Bangladesh 🇧🇩
   <img src="https://img.shields.io/badge/Nest.js-ea2860?style=flat&logo=nestjs&logoColor=white" alt="Nest.js" height="30">
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" alt="Fastify" height="30">
 
-  <h3>🛠️ <strong>Tools & IDEs</strong></h3>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" height="30">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" height="30">
-  <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white" alt="Figma" height="30">
 
   <h3>☁️ <strong>DevOps & Cloud</strong></h3>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" height="30">
@@ -53,13 +48,8 @@ I'm a self-taught programmer and software developer from Bangladesh 🇧🇩
   <h3>💻 <strong>Languages</strong></h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="30">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="30">
-  <img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white" alt="C#" height="30">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="30">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="30">
 
-  <h3>🔗 <strong>Version Control & CI/CD</strong></h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="30">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" height="30">
 </div>
