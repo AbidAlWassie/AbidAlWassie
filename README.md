@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/NextAuth-EB5424?style=flat&logo=auth0&logoColor=white" alt="NextAuth" height="30">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" height="30">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="30">
+  <img src="https://img.shields.io/badge/MongoDB-001E2B?style=flat&logo=mongodb&logoColor=00ED64" alt="MongoDB" height="30">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="30">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" height="30">
   <img src="https://img.shields.io/badge/Nest.js-ea2860?style=flat&logo=nestjs&logoColor=white" alt="Nest.js" height="30">
