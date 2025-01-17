@@ -2,13 +2,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/abidalwassie/) |
 [Website](https://abidalwassie.netlify.app/) |
-[Twitter](https://twitter.com/abidalwassie) |
-[Telegram](https://t.me/doge4444)
 
 &nbsp; 
-I'm a Full Stack Web Developer.
 - 🛠️ &nbsp; I build `Full Stack Web Apps`
-- 🐧 &nbsp; I love FOSS
 - 📫 &nbsp; How to reach me: abidalwassie@gmail.com
 
 <div>
