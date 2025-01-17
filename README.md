@@ -24,14 +24,14 @@
   <img src="https://img.shields.io/badge/Framer_Motion-353535?style=flat&logo=framer&logoColor=white" alt="Framer Motion" height="30">
 
   <h3>⚙️ <strong>Backend Technologies</strong></h3>
-  <img src="https://img.shields.io/badge/NextAuth-EB5424?style=flat&logo=auth0&logoColor=white" alt="NextAuth" height="30">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="30">
+  <img src="https://img.shields.io/badge/Nest.js-ea2860?style=flat&logo=nestjs&logoColor=white" alt="Nest.js" height="30">
+  <img src="https://img.shields.io/badge/Fastify-202020?style=flat&logo=fastify&logoColor=white" alt="Fastify" height="30">
+  <img src="https://img.shields.io/badge/Express-101010?style=flat&logo=express&logoColor=ddd" alt="Express" height="30">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" height="30">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30">
   <img src="https://img.shields.io/badge/MongoDB-001E2B?style=flat&logo=mongodb&logoColor=00ED64" alt="MongoDB" height="30">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="30">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" height="30">
-  <img src="https://img.shields.io/badge/Nest.js-ea2860?style=flat&logo=nestjs&logoColor=white" alt="Nest.js" height="30">
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" alt="Fastify" height="30">
+  <img src="https://img.shields.io/badge/NextAuth-EB5424?style=flat&logo=auth0&logoColor=white" alt="NextAuth" height="30">
 
   <h3>☁️ <strong>DevOps & Cloud</strong></h3>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" height="30">
