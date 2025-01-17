@@ -13,7 +13,7 @@ I'm a Full Stack Web Developer.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=abidalwassie&show_icons=true&theme=github_dark_dimmed" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0C1014&hide=scss">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&hide=scss">
 </div>
 
 <div>
