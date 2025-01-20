@@ -36,7 +36,7 @@
   <h3>☁️ <strong>DevOps & Cloud</strong></h3>
   <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/GCP-001d35.svg" alt="GCP" height="30">
   <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/AWS-262e3b.svg" alt="AWS" height="30">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" height="30">
+  <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/Azure-090e18.svg" alt="Azure" height="30">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" height="30">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" height="30">
 
