@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma" height="30">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30">
   <img src="https://img.shields.io/badge/MongoDB-001E2B?style=flat&logo=mongodb&logoColor=00ED64" alt="MongoDB" height="30">
-  <img src="https://img.shields.io/badge/NextAuth-EB5424?style=flat&logo=auth0&logoColor=white" alt="NextAuth" height="30">
+  <img src="https://img.shields.io/badge/OAuth-EB5424?style=flat&logo=auth0&logoColor=white" alt="NextAuth" height="30">
 
   <h3>☁️ <strong>DevOps & Cloud</strong></h3>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" height="30">
