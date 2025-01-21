@@ -6,8 +6,8 @@
 - 🛠️ &nbsp; I build `Full Stack Web Apps`
 - 📫 &nbsp; How to reach me: abidalwassie@gmail.com
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=abidalwassie&show_icons=true&theme=github_dark_dimmed&cache_seconds=21600" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&hide=scss&cache_seconds=21600">
+  <img src="https://github-readme-stats.vercel.app/api?username=abidalwassie&show_icons=true&theme=github_dark_dimmed&bg_color=151B23&hide_border=true&cache_seconds=21600" height="190">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&bg_color=151B23&hide_border=true&hide=scss&cache_seconds=21600">
 </div>
 <div>
   <h2>🛠️ <strong>Technologies and tools I work with:</strong></h2>
