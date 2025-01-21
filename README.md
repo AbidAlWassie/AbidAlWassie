@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" height="30">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS" height="30">
   <img src="https://img.shields.io/badge/Shadcn-000000?style=flat&logo=shadcn/ui&logoColor=white&color=353535" alt="Shadcn" height="30">
-  <img src="https://img.shields.io/badge/Framer_Motion-353535?style=flat&logo=framer&logoColor=white" alt="Framer Motion" height="30">
+  <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/Framer%20Motion-082234.svg" alt="Framer Motion" height="30">
 
   <h3>⚙️ <strong>Backend Technologies</strong></h3>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="30">
@@ -36,7 +36,7 @@
   <h3>☁️ <strong>DevOps & Cloud</strong></h3>
   <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/GCP-001d35.svg" alt="GCP" height="30">
   <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/AWS-262e3b.svg" alt="AWS" height="30">
-  <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/Azure-090e18.svg" alt="Azure" height="30">
+  <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/Azure-262e3b.svg" alt="Azure" height="30">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" height="30">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" height="30">
 
