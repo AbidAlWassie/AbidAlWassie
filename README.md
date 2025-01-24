@@ -6,8 +6,8 @@
 - 🛠️ &nbsp; I build `Full Stack Web Apps`
 - 📫 &nbsp; How to reach me: abidalwassie@gmail.com
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=abidalwassie&show_icons=true&theme=github_dark_dimmed&bg_color=151B23&hide_border=true&cache_seconds=21600" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&bg_color=151B23&hide_border=true&hide=scss&cache_seconds=21600">
+  <img src="https://github-readme-stats.vercel.app/api?username=abidalwassie&show_icons=true&theme=github_dark_dimmed&bg_color=151B23&hide_border=true&cache_seconds=3600" height="190">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&bg_color=151B23&hide_border=true&hide=scss&cache_seconds=3600">
 </div>
 <div>
   <h2>🛠️ <strong>Technologies and tools I work with:</strong></h2>
@@ -31,6 +31,7 @@
   <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/tRPC-398CCB.svg" alt="tRPC" height="30">
 
   <h3>☁️ <strong>DevOps & Cloud</strong></h3>
+  <img src="https://img.shields.io/badge/Docker-1D63ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker" height="30">
   <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/GCP-001d35.svg" alt="GCP" height="30">
   <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/AWS-262e3b.svg" alt="AWS" height="30">
   <img src="https://raw.githubusercontent.com/vquix/svg-badges/refs/heads/main/Azure-262e3b.svg" alt="Azure" height="30">
