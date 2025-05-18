@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=F85D7F&center=true&vCenter=true&width=404&height=32&lines=%F0%9F%9A%80Full+Stack+Developer;%F0%9F%91%BEGame+Developer;%E2%96%B6%EF%B8%8FYouTuber+%2B%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBFreelancer)](https://git.io/typing-svg/#gh-dark-mode-only)
+[![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=2c93e1&center=true&vCenter=true&width=404&height=32&lines=%F0%9F%9A%80Full+Stack+Developer;%F0%9F%91%BEGame+Developer;%E2%96%B6%EF%B8%8FYouTuber+%2B%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBFreelancer)](https://git.io/typing-svg/#gh-dark-mode-only)
 [![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=4C71F2&center=true&vCenter=true&width=404&height=32&lines=%F0%9F%9A%80Full+Stack+Developer;%F0%9F%91%BEGame+Developer;%E2%96%B6%EF%B8%8FYouTuber+%2B%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBFreelancer)](https://git.io/typing-svg/#gh-light-mode-only)
 
 [<img src="badges/linkedin-abidalwassie-0077B5.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/abidalwassie/)
@@ -17,13 +17,12 @@
 [<img src="https://img.shields.io/badge/Email me!-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF" alt="Email" height="30">](mailto:abidalwassie@gmail.com)
 &nbsp;
 
-</div>
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=abidalwassie&show_icons=true&theme=github_dark_dimmed&bg_color=0,0e141b,082c42&hide_border=true&cache_seconds=3600" height="190">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&bg_color=0,0e141b,082c42&hide_border=true&hide=scss&cache_seconds=3600">
+  <img src="https://github-readme-stats.vercel.app/api?username=abidalwassie&show_icons=true&theme=github_dark_dimmed&bg_color=0,0e141b,082c42&hide_border=true&cache_seconds=3600" height="190">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidAlWassie&langs_count=8&count_private=false&layout=compact&theme=github_dark_dimmed&bg_color=0,0e141b,082c42&hide_border=true&hide=scss&cache_seconds=3600">
+
   </div>
-  
+
   <div>
     <h2>🛠️ <strong>Technologies and tools I work with:</strong></h2>
     <h3>🚀 <strong>Frontend Technologies</strong></h3>
