@@ -12,7 +12,7 @@
 [![typing-svg](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=24&duration=2500&pause=2000&color=4C71F2&center=true&vCenter=true&width=404&height=32&lines=%F0%9F%9A%80Full+Stack+Developer;%F0%9F%91%BEGame+Developer;%E2%96%B6%EF%B8%8FYouTuber+%2B%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBFreelancer)](https://git.io/typing-svg/#gh-light-mode-only)
 
 [<img src="badges/linkedin-abidalwassie-0077B5.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/abidalwassie/)
-[<img src="https://img.shields.io/badge/@oneManDev-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="30">](https://youtube.com/@oneManDev)
+<a href="https://youtube.com/@oneManDev" target="_blank"><img src="https://img.shields.io/badge/@oneManDev-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="30"></a>
 [<img src="badges/website-416bff.svg" alt="Website" height="30">](https://abidalwassie.netlify.app/)
 [<img src="https://img.shields.io/badge/Email me!-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF" alt="Email" height="30">](mailto:abidalwassie@gmail.com)
 &nbsp;
